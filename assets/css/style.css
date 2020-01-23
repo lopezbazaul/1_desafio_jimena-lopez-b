@@ -1,0 +1,48 @@
+body{
+  font-family: 'Roboto', sans-serif; /*para escribir texto */
+ font-size: 14px;
+}
+/* tipos */
+.jloop{
+  font-family: 'Raleway', sans-serif;
+  font-size: 3rem;
+  color:#fff ;
+  font-weight: 600;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.5rem;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+  font-size: 0.3rem;
+}
+.text-blanco{
+  color: #fff;
+}
+
+/* estilo */
+.lineas-paralelas{
+  border-top: 1px solid #373a3C;
+  border-bottom: 1px solid #373a3C;
+}
+.trabajos{
+  background-color: gray;
+}
+
+#navbarNavDropdown ul li a:hover {
+ border-bottom: 3px solid #F0755B;
+ color: #F0755B;
+}
+
+.img_ejem{
+  width:100%;
+}
